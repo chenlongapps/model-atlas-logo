@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1114" height="223" viewBox="331 316 1114 223" role="img" aria-labelledby="title desc">
+  <title id="title">极简对称灰度均衡器图标</title>
+  <desc id="desc">九个由两侧向中央逐渐增大、加深的灰度圆角矩形。</desc>
+  <g id="equalizer">
+    <rect x="331" y="406" width="67" height="65" rx="16" fill="#ababab" />
+    <rect x="420" y="386" width="87" height="102" rx="22" fill="#9f9f9f" />
+    <rect x="527" y="367" width="106" height="136" rx="24" fill="#828282" />
+    <rect x="652" y="346" width="126" height="177" rx="28" fill="#545454" />
+    <rect x="799" y="316" width="179" height="223" rx="35" fill="#0c0c0c" />
+    <rect x="999" y="346" width="126" height="176" rx="28" fill="#575757" />
+    <rect x="1143" y="366" width="106" height="137" rx="24" fill="#878787" />
+    <rect x="1269" y="386" width="87" height="102" rx="22" fill="#a1a1a1" />
+    <rect x="1379" y="405" width="66" height="65" rx="16" fill="#adadad" />
+  </g>
+</svg>
