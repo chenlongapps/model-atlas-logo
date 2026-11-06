@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="473" height="223" viewBox="652 316 473 223" role="img" aria-labelledby="title desc">
+  <title id="title">模型图谱三柱灰度图标</title>
+  <desc id="desc">保留均衡器中央的三个灰度圆角矩形，中央近黑、两侧深灰，背景透明。</desc>
+  <g id="equalizer">
+    <rect x="652" y="346" width="126" height="177" rx="28" fill="#545454" />
+    <rect x="799" y="316" width="179" height="223" rx="35" fill="#0c0c0c" />
+    <rect x="999" y="346" width="126" height="176" rx="28" fill="#575757" />
+  </g>
+</svg>
